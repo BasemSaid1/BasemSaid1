@@ -26,7 +26,7 @@
           
     
 <ul dir="auto">
-  <li>🏫 I am a <code>Computers and information</code> at Zagazig University</li>
+  <li>🏫 I am a <code>graduate of computers and information </code> from Zagazig University</li>
   <li>🔭 I’m currently working as a <code>freelancer</code> in web development.</li>
   <li>🌱 I’m currently studying <code>Frontend Development</code>.</li>
   <li>📫 How to reach me: <strong><a href="mailto:bbasemsaid@gmail.com"><code>bbasemsaid@gmail.com</code></a></strong></li>
